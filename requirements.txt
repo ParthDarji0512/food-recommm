@@ -1,0 +1,8 @@
+flask
+ultralytics
+transformers
+torch
+xgboost
+scikit-learn
+pandas
+numpy
